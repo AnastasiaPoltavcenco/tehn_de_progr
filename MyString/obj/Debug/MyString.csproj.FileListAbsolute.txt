@@ -1,0 +1,8 @@
+D:\study\tehnologii de programare\MyString\bin\Debug\MyString.exe.config
+D:\study\tehnologii de programare\MyString\bin\Debug\MyString.exe
+D:\study\tehnologii de programare\MyString\bin\Debug\MyString.pdb
+D:\study\tehnologii de programare\MyString\obj\Debug\MyString.csproj.AssemblyReference.cache
+D:\study\tehnologii de programare\MyString\obj\Debug\MyString.csproj.SuggestedBindingRedirects.cache
+D:\study\tehnologii de programare\MyString\obj\Debug\MyString.csproj.CoreCompileInputs.cache
+D:\study\tehnologii de programare\MyString\obj\Debug\MyString.exe
+D:\study\tehnologii de programare\MyString\obj\Debug\MyString.pdb
